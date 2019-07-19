@@ -1,4 +1,4 @@
- # OSOYOO_IR for micro-bit
+ # 38k-remote for micro-bit
 
 Extension for OSOYOO_IR
 
